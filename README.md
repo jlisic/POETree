@@ -1,7 +1,7 @@
 # POETree  
-[![Build Status](https://travis-ci.org/jlisic/POETree.svg?branch=master)](https://travis-ci.org/jlisic/POETree)
+<!--[![Build Status](https://travis-ci.org/jlisic/POETree.svg?branch=master)](https://travis-ci.org/jlisic/POETree)
 [![](http://www.r-pkg.org/badges/version/POETree)](http://www.r-pkg.org/pkg/POETree)
-[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/POETree)](http://www.r-pkg.org/pkg/POETree)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/POETree)](http://www.r-pkg.org/pkg/POETree) -->
 
 Persistent Object Expandanble Tree
 
