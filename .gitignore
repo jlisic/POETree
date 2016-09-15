@@ -1,0 +1,7 @@
+*.o
+*.so
+*.dll
+*.swo
+*.swp
+vgcore.*
+.Rproj.user

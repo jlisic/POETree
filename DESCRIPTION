@@ -1,0 +1,16 @@
+Package: POETree 
+Type: Package
+Title: Persistent Object Expandable Tree 
+Version: 0.50
+Date: 2016-9-01
+Authors@R: c(
+    person("Jonathan", "Lisic", , "jlisic@gmail.com", c("aut", "cre"))
+    )
+URL: http://meanmean.me/meanshift/r/cran/2016/09/05/POETree.html 
+BugReports: https://github.com/jlisic/POETree/issues
+Maintainer: Jonathan Lisic <jlisic@gmail.com>
+Description: Provides a reusable and persistent tree, of the type known as k-d.
+  Points are stored in the leaves, so adding new points can be done with ease.
+Depends: R (>= 3.1.0)
+License: GPL (>= 2)
+RoxygenNote: 5.0.1
